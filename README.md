@@ -1,85 +1,124 @@
-# Olá, eu sou o Thiago Paiano 👋
-
-### Analista de Dados em Formação | Python · SQL · BigQuery · PySpark | Curitiba, PR
-
----
-
-## 🙋‍♂️ Sobre mim
-
-Tenho 19 anos, sou graduando em **Ciência da Computação** e técnico em formação em **Análise de Dados pela EBAC**.
-Combino raciocínio analítico com habilidade de comunicação — e acredito que os melhores profissionais de dados são aqueles que entendem tanto de código quanto de pessoas.
-
-Enquanto muitos ainda estão decidindo o que querem fazer, eu já estou construindo. 🚀
-
----
-
-## 🛠️ Tech Stack
-
-### 📊 Dados & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-
-### 💻 Ferramentas & Produtividade
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📁 Organização dos Repositórios
-
-| Categoria | Descrição |
-|-----------|-----------|
-| 🐍 `python-studies` | Exercícios, scripts e projetos em Python |
-| 🗄️ `sql-studies` | Consultas, modelagem e análises em MySQL e BigQuery |
-| 📊 `data-analysis` | Projetos de análise e visualização de dados |
-| 📚 `ebac-courses` | Atividades e projetos dos cursos EBAC |
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Paianou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paianou&layout=compact&langs_count=7&theme=tokyonight"/>
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║           THIAGO PAIANO SOUZA                        ║
+║           turning data into decisions                ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
 </div>
 
----
+<br>
 
-## 🎓 Formação & Certificações
+<div align="center">
 
-- 🎓 **Ciência da Computação** — 1º Período (cursando)
-- 📊 **Técnico em Análise de Dados** — EBAC (cursando)
-- 📜 PowerPoint Básico ao Avançado — EBAC
-- 📜 Inteligência Artificial — EBAC
-- 📜 Introdução à Programação — EBAC (17 módulos | 18h)
-- 📜 Excel & Word — Udemy
-- 📜 Hardware e Robótica — Microcamp
-- 📜 Educação Financeira — Fundação Bradesco
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=18&pause=1000&color=6E7681&center=true&vCenter=true&width=500&lines=Data+Analysis+Student+%40+EBAC;Computer+Science+%40+University;Python+%7C+SQL+%7C+BigQuery+%7C+PySpark;Curitiba%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)
+
+</div>
+
+<br>
 
 ---
 
-## 🌍 Idiomas
+### `$ whoami`
 
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Intermediário (em desenvolvimento)
-- 🇪🇸 Espanhol — Iniciante
+```python
+thiago = {
+    "idade"       : 19,
+    "cidade"      : "Curitiba, PR 🇧🇷",
+    "formacao"    : ["Ciência da Computação (1º período)",
+                     "Análise de Dados — EBAC"],
+    "foco"        : "transformar dados brutos em decisões inteligentes",
+    "atualmente"  : "estudando · construindo · evoluindo",
+}
+```
+
+<br>
 
 ---
 
-## 📬 Contato
+### `$ ls ~/skills`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-paiano)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denilsonvierasouza@gmail.com)
+```
+📊 dados/
+   ├── python          ████████░░  intermediário
+   ├── mysql           ████████░░  intermediário
+   ├── bigquery        ██████░░░░  básico/inter.
+   ├── pyspark         ██████░░░░  básico/inter.
+   ├── power_bi        ██████░░░░  básico/inter.
+   └── google_looker   ██████░░░░  básico/inter.
+
+🛠️ ferramentas/
+   ├── excel           ██████████  avançado
+   ├── powerpoint      ██████████  avançado
+   └── word            ██████████  avançado
+
+🌍 idiomas/
+   ├── português       ██████████  nativo
+   ├── inglês          ████████░░  intermediário
+   └── espanhol        ████░░░░░░  iniciante
+```
+
+<br>
+
+---
+
+### `$ git log --oneline ~/projetos`
+
+| projeto | descrição | stack |
+|---|---|---|
+| [🍽️ Restaurant_Sql](https://github.com/Paianou/Restaurant_Sql) | banco de dados de restaurante | `MySQL` |
+| [🛍️ Project-Online_retail](https://github.com/Paianou/Project-Online_retail) | análise de e-commerce | `Python` `Pandas` |
+| [📥 Estudo_coleta_Dados](https://github.com/Paianou/Estudo_coleta_Dados) | coleta e ingestão de dados | `Python` |
+| [🧹 Estudo_Tratamento_dados](https://github.com/Paianou/Estudo_Tratamento_dados) | limpeza e tratamento de dados | `Python` |
+| [🔍 EDA_olist_entrega_avaliacoes](https://github.com/Paianou/EDA_olist_entrega_avaliacoes) | análise exploratória de 100k pedidos reais | `Python` `Pandas` `Seaborn` |
+
+<br>
+
+---
+
+### `$ cat /etc/about.me`
+
+```
+Não vim de uma família de programadores.
+Não tive computador desde pequeno.
+
+Mas decidi que tecnologia seria meu caminho —
+e desde então não parei de construir.
+
+Cada repositório aqui é um passo.
+Cada commit é evidência.
+```
+
+<br>
+
+---
+
+### `$ ping thiago`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/─────────_LinkedIn_─────────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-paiano)
+[![Gmail](https://img.shields.io/badge/─────────__Gmail__─────────-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denilsonvierasouza@gmail.com)
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
-  <i>"Transformando dados em decisões — um commit de cada vez."</i>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Paianou&show_icons=true&theme=github_dark&hide_border=true&title_color=6E7681&icon_color=6E7681&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paianou&layout=compact&theme=github_dark&hide_border=true&title_color=6E7681&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>atualizado em 2025 · feito com intenção</sub>
 </div>
