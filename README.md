@@ -1,124 +1,89 @@
-<div align="center">
+]# 👋 Olá, eu sou o Thiago (Payanu)
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║           THIAGO PAIANO SOUZA                        ║
-║           turning data into decisions                ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+🎓 Estudante de Tecnologia da Informação  
+💻 Focado em desenvolvimento e análise de dados  
+📍 Brasil  
 
-</div>
-
-<br>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=18&pause=1000&color=6E7681&center=true&vCenter=true&width=500&lines=Data+Analysis+Student+%40+EBAC;Computer+Science+%40+University;Python+%7C+SQL+%7C+BigQuery+%7C+PySpark;Curitiba%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)
-
-</div>
-
-<br>
+Tenho interesse em transformar dados e sistemas em soluções reais, com foco em aprendizado contínuo e evolução prática.
 
 ---
 
-### `$ whoami`
+## 🚀 Projetos em Destaque
 
-```python
-thiago = {
-    "idade"       : 19,
-    "cidade"      : "Curitiba, PR 🇧🇷",
-    "formacao"    : ["Ciência da Computação (1º período)",
-                     "Análise de Dados — EBAC"],
-    "foco"        : "transformar dados brutos em decisões inteligentes",
-    "atualmente"  : "estudando · construindo · evoluindo",
-}
-```
+### 📊 Análise de Dados COVID
+🔗 https://github.com/Paianou/covid_analisys
 
-<br>
+Projeto de análise de dados utilizando Python e SQL, explorando informações reais sobre a COVID-19.
 
----
+**Principais pontos:**
+- Tratamento de dados
+- Análise exploratória
+- Organização de datasets
+- Uso de arquivos CSV
 
-### `$ ls ~/skills`
-
-```
-📊 dados/
-   ├── python          ████████░░  intermediário
-   ├── mysql           ████████░░  intermediário
-   ├── bigquery        ██████░░░░  básico/inter.
-   ├── pyspark         ██████░░░░  básico/inter.
-   ├── power_bi        ██████░░░░  básico/inter.
-   └── google_looker   ██████░░░░  básico/inter.
-
-🛠️ ferramentas/
-   ├── excel           ██████████  avançado
-   ├── powerpoint      ██████████  avançado
-   └── word            ██████████  avançado
-
-🌍 idiomas/
-   ├── português       ██████████  nativo
-   ├── inglês          ████████░░  intermediário
-   └── espanhol        ████░░░░░░  iniciante
-```
-
-<br>
+**Tecnologias:**
+`Python` • `Pandas` • `SQL`
 
 ---
 
-### `$ git log --oneline ~/projetos`
+### 🍽️ Sistema de Restaurante (Banco de Dados)
+Projeto de modelagem e estruturação de banco de dados para um sistema de restaurante.
 
-| projeto | descrição | stack |
-|---|---|---|
-| [🍽️ Restaurant_Sql](https://github.com/Paianou/Restaurant_Sql) | banco de dados de restaurante | `MySQL` |
-| [🛍️ Project-Online_retail](https://github.com/Paianou/Project-Online_retail) | análise de e-commerce | `Python` `Pandas` |
-| [📥 Estudo_coleta_Dados](https://github.com/Paianou/Estudo_coleta_Dados) | coleta e ingestão de dados | `Python` |
-| [🧹 Estudo_Tratamento_dados](https://github.com/Paianou/Estudo_Tratamento_dados) | limpeza e tratamento de dados | `Python` |
-| [🔍 EDA_olist_entrega_avaliacoes](https://github.com/Paianou/EDA_olist_entrega_avaliacoes) | análise exploratória de 100k pedidos reais | `Python` `Pandas` `Seaborn` |
+**Funcionalidades:**
+- Cadastro de clientes
+- Controle de funcionários
+- Estrutura relacional completa
 
-<br>
-
----
-
-### `$ cat /etc/about.me`
-
-```
-Não vim de uma família de programadores.
-Não tive computador desde pequeno.
-
-Mas decidi que tecnologia seria meu caminho —
-e desde então não parei de construir.
-
-Cada repositório aqui é um passo.
-Cada commit é evidência.
-```
-
-<br>
+**Tecnologias:**
+`MySQL` • `SQL`
 
 ---
 
-### `$ ping thiago`
+### 🎲 Sistema RPG Digital (Em desenvolvimento)
+Projeto de plataforma digital para sessões de RPG.
 
-<div align="center">
+**Objetivo:**
+Criar uma aplicação interativa com:
+- Rolagem de dados dinâmica
+- Sistema de atributos
+- Interface para jogadores
+- Futuro modelo SaaS
 
-[![LinkedIn](https://img.shields.io/badge/─────────_LinkedIn_─────────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-paiano)
-[![Gmail](https://img.shields.io/badge/─────────__Gmail__─────────-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denilsonvierasouza@gmail.com)
-
-</div>
-
-<br>
+**Tecnologias:**
+`JavaScript` • `Web` • `Game Design`
 
 ---
 
-<div align="center">
+## 🧠 Habilidades
 
-<img src="https://github-readme-stats.vercel.app/api?username=Paianou&show_icons=true&theme=github_dark&hide_border=true&title_color=6E7681&icon_color=6E7681&text_color=c9d1d9&bg_color=0d1117" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paianou&layout=compact&theme=github_dark&hide_border=true&title_color=6E7681&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+- 📊 Análise de Dados
+- 🗄️ Banco de Dados (SQL)
+- 🐍 Python (Pandas)
+- 🌐 Desenvolvimento Web (básico)
+- 🧩 Lógica de Programação
 
-</div>
+---
 
-<br>
+## 📈 Em aprendizado
 
-<div align="center">
-<sub>atualizado em 2025 · feito com intenção</sub>
-</div>
+- Estruturação de APIs
+- Visualização de dados
+- Desenvolvimento full stack
+- Boas práticas de engenharia de software
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: (adicione aqui)  
+📧 Email: (opcional)
+
+---
+
+## ⚡ Objetivo
+
+Busco oportunidade de estágio na área de TI para desenvolver minhas habilidades práticas e contribuir com soluções reais.
+
+---
+
+⭐ Obrigado por visitar meu perfil!
