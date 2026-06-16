@@ -1,4 +1,4 @@
-]# 👋 Olá, eu sou o Thiago (Payanu)
+# 👋 Olá, eu sou o Thiago (Payanu)
 
 🎓 Estudante de Tecnologia da Informação  
 💻 Focado em desenvolvimento e análise de dados  
