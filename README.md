@@ -1,89 +1,170 @@
-# 👋 Olá, eu sou o Thiago (Payanu)
+<div align="center">
 
-🎓 Estudante de Tecnologia da Informação  
-💻 Focado em desenvolvimento e análise de dados  
-📍 Brasil  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Thiago%20Paiano%20Souza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Transformando%20dados%20brutos%20em%20decis%C3%B5es&descAlignY=55&descSize=18" width="100%"/>
 
-Tenho interesse em transformar dados e sistemas em soluções reais, com foco em aprendizado contínuo e evolução prática.
+<br>
 
----
+<a href="https://www.linkedin.com/in/thiago-paiano-souza-a44616361/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:seu@email.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Curitiba,_PR-1e3c72?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-## 🚀 Projetos em Destaque
+</div>
 
-### 📊 Análise de Dados COVID
-🔗 https://github.com/Paianou/covid_analisys
+<br>
 
-Projeto de análise de dados utilizando Python e SQL, explorando informações reais sobre a COVID-19.
+```py
+class Thiago:
+    def __init__(self):
+        self.idade = 19
+        self.formacao = "Tecnologia da Informação"
+        self.foco = "Análise de Dados"
+        self.stack = ["Python", "SQL", "Pandas", "Power BI"]
+        self.status = "🟢 disponível para estágio"
 
-**Principais pontos:**
-- Tratamento de dados
-- Análise exploratória
-- Organização de datasets
-- Uso de arquivos CSV
+    def __repr__(self):
+        return "Curioso por natureza, organizado por hábito. Gosto de pegar uma tabela crua e transformá-la numa história que faz sentido."
+```
 
-**Tecnologias:**
-`Python` • `Pandas` • `SQL`
+<br>
 
----
+## 📊 Sobre mim
 
-### 🍽️ Sistema de Restaurante (Banco de Dados)
-Projeto de modelagem e estruturação de banco de dados para um sistema de restaurante.
+<img align="right" width="280" src="https://raw.githubusercontent.com/kirillmasyagin/kirillmasyagin/main/gif3.gif" onerror="this.style.display='none'"/>
 
-**Funcionalidades:**
-- Cadastro de clientes
-- Controle de funcionários
-- Estrutura relacional completa
+- 🎓 Estudante de **Tecnologia da Informação**, com foco prático em **Análise de Dados**
+- 🔎 Gosto de transformar planilhas confusas em **insights que orientam decisões**
+- 🐍 No dia a dia, minha stack gira em torno de **Python (Pandas/NumPy), SQL e Power BI**
+- 📈 Meus projetos partem sempre de uma **pergunta de negócio real** — não só de código por código
+- 🌱 Atualmente estudando **visualização de dados** e boas práticas de engenharia de software
+- 🎯 Buscando minha **primeira oportunidade** para aplicar tudo isso no mercado
 
-**Tecnologias:**
-`MySQL` • `SQL`
+<br clear="right"/>
 
----
+<br>
 
-### 🎲 Sistema RPG Digital (Em desenvolvimento)
-Projeto de plataforma digital para sessões de RPG.
+## 🗂️ Projetos em Destaque
 
-**Objetivo:**
-Criar uma aplicação interativa com:
-- Rolagem de dados dinâmica
-- Sistema de atributos
-- Interface para jogadores
-- Futuro modelo SaaS
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Tecnologias:**
-`JavaScript` • `Web` • `Game Design`
+### 📦 [EDA — Entregas Olist](https://github.com/Paianou/EDA_olist_entrega_avaliacoes)
 
----
+Análise exploratória de **100 mil pedidos reais** do e-commerce Olist para entender se atrasos na entrega afetam a satisfação dos clientes.
 
-## 🧠 Habilidades
+`Python` `Pandas` `Seaborn` `SciPy`
 
-- 📊 Análise de Dados
-- 🗄️ Banco de Dados (SQL)
-- 🐍 Python (Pandas)
-- 🌐 Desenvolvimento Web (básico)
-- 🧩 Lógica de Programação
+**Achado principal:** correlação de Spearman (r ≈ -0.40) entre dias de atraso e nota de avaliação.
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📈 Em aprendizado
+### 🦠 [Análise COVID-19 Brasil](https://github.com/Paianou/covid_analisys)
 
-- Estruturação de APIs
-- Visualização de dados
-- Desenvolvimento full stack
-- Boas práticas de engenharia de software
+Limpeza, transformação e visualização de dados públicos da pandemia no Brasil — evolução temporal, comparativo por estado e taxa por população.
 
----
+`Python` `Pandas` `Matplotlib`
 
-## 📫 Contato
+**Foco:** tratamento de outliers e construção de séries temporais confiáveis.
 
-💼 LinkedIn: (adicione aqui)  
-📧 Email: (opcional)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🍽️ [Sistema de Restaurante — SQL](https://github.com/Paianou/Restaurant_Sql)
 
-## ⚡ Objetivo
+Modelagem relacional completa para um sistema de restaurante: JOINs, views e funções aplicadas a um caso de uso real.
 
-Busco oportunidade de estágio na área de TI para desenvolver minhas habilidades práticas e contribuir com soluções reais.
+`MySQL` `SQL` `Modelagem de Dados`
 
----
+</td>
+<td width="50%" valign="top">
 
-⭐ Obrigado por visitar meu perfil!
+### 🛒 [Online Retail Analysis](https://github.com/Paianou/Project-Online_retail)
+
+Projeto de análise de dados de varejo online, explorando padrões de compra e comportamento de clientes.
+
+`Python` `Pandas`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>🔍 Veja todos os repositórios em <a href="https://github.com/Paianou?tab=repositories">github.com/Paianou?tab=repositories</a></sub>
+</div>
+
+<br>
+
+## 🧠 Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+## 📈 Em aprendizado agora
+
+```
+[■■■■■■■■■□□] Visualização de dados (Power BI)
+[■■■■■■□□□□□] Estatística aplicada
+[■■■■□□□□□□□] Engenharia de dados / APIs
+[■■■□□□□□□□□] Desenvolvimento full stack
+```
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Paianou&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1e3c72&icon_color=2a5298&text_color=333333"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paianou&layout=compact&hide_border=true&title_color=1e3c72&text_color=333333"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paianou&hide_border=true&background=FFFFFF&ring=1e3c72&fire=2a5298&currStreakLabel=1e3c72"/>
+
+</div>
+
+<br>
+
+## 🎯 Objetivo
+
+> Busco minha primeira oportunidade na área de **Análise de Dados** para aplicar na prática o que venho construindo em projetos pessoais — e continuar aprendendo com quem já está no mercado.
+
+<br>
+
+<div align="center">
+
+### 📫 Vamos conversar?
+
+<a href="https://www.linkedin.com/in/thiago-paiano-souza-a44616361/">
+  <img src="https://img.shields.io/badge/Conecte--se%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>⭐ Se algum projeto te interessou, deixa uma estrela — isso me ajuda bastante</sub>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Paianou&color=1e3c72&style=flat-square&label=Visualizações+do+perfil)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
